@@ -23,3 +23,14 @@ I have a clear, logical mind with a practical approach to problem-solving. I am 
     - **Computer Algorithms project**
 - ## Code examples: 
 https://github.com/1810111
+
+### *Education*
+2018 - 2022
+INHA University in Tashkent
+Information and Communication Engineering
+
+### *Languages*
++ English — Fluent
++ Russian — Native
++ Chinese — Beginner
++ Uzbek — Native
