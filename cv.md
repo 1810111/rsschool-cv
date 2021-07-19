@@ -26,7 +26,9 @@ https://github.com/1810111
 
 ### *Education*
 2018 - 2022
+
 INHA University in Tashkent
+
 Information and Communication Engineering
 
 ### *Languages*
